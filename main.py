@@ -1,1 +1,1 @@
-float.fromhex('0x1.5000000000000p+3')
+len('spam')
